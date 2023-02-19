@@ -20,3 +20,14 @@ no se cargara.
 - IMAGEN MARKDOWN
 - ![LOGO](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png "logo de javascript")
 
+## Otra lista de videos de patrones en javascript:
+- https://www.youtube.com/watch?v=kk09btcM8eI&list=PLc54vIMzwvdSOGpEezgHljl0hL2m2yJLD
+
+## Apartado herramientas
+- https://replit.com/new/nodejs
+- https://www.mycompiler.io/new/nodejs
+- https://www.jdoodle.com/execute-nodejs-online/
+- https://goonlinetools.com/
+- https://www.typescriptlang.org/
+
+
