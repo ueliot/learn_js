@@ -25,6 +25,7 @@ no se cargara.
 - https://loredanacirstea.github.io/es6-design-patterns/
 - http://wiki.c2.com/?AbstractFactoryPattern
 - https://www.patterns.dev/posts/classic-design-patterns/
+- https://refactoring.guru/design-patterns
 
 
 ## Apartado herramientas
