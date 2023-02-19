@@ -25,7 +25,7 @@ no se cargara.
 - https://loredanacirstea.github.io/es6-design-patterns/
 - http://wiki.c2.com/?AbstractFactoryPattern
 - https://www.patterns.dev/posts/classic-design-patterns/
-- https://replit.com/new/nodejs
+
 
 ## Apartado herramientas
 - https://replit.com/new/nodejs
