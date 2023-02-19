@@ -27,6 +27,9 @@ no se cargara.
 - https://www.patterns.dev/posts/classic-design-patterns/
 - https://refactoring.guru/design-patterns
 
+## MEMOIZATION y CLAUSURAS
+- https://www.youtube.com/watch?v=aSKauWDmcJo
+
 
 ## Apartado herramientas
 - https://replit.com/new/nodejs
