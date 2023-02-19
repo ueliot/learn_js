@@ -22,6 +22,8 @@ no se cargara.
 
 ## Otra lista de videos de patrones en javascript:
 - https://www.youtube.com/watch?v=kk09btcM8eI&list=PLc54vIMzwvdSOGpEezgHljl0hL2m2yJLD
+- https://loredanacirstea.github.io/es6-design-patterns/
+- https://replit.com/new/nodejs
 
 ## Apartado herramientas
 - https://replit.com/new/nodejs
