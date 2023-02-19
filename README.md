@@ -15,5 +15,7 @@ no se cargaran.
 - Los videos de las explicaciones de cada patron de diseño estan en youtube:
 - [LISTA DE VIDEOS](https://www.youtube.com/watch?v=N-NnxiVln8I&list=PLWYKfSbdsjJiwd7H_eDd9WvyXKF8PRUIS&index=1)
 - [WEB PERSONAL DE HdeLeon](https://hdeleon.net/)
-![JavaScript](https://es.wikipedia.org/wiki/Archivo:JavaScript-logo.png)
+- <image src="https://es.wikipedia.org/wiki/Archivo:JavaScript-logo.png" alt="JAVASCRIPT">
+
+- ![JavaScript](https://es.wikipedia.org/wiki/Archivo:JavaScript-logo.png)
 
