@@ -29,6 +29,9 @@ no se cargara.
 - https://www.youtube.com/playlist?list=PLC238B0613515968F
 - https://www.youtube.com/playlist?list=PLM-p96nOrGcbqbL_A29b0z3KUXdq2_fpn
 
+## MEMOIZATION y CLAUSURAS
+- https://www.youtube.com/watch?v=aSKauWDmcJo
+
 
 ## Apartado herramientas
 - https://replit.com/new/nodejs
