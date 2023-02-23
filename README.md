@@ -26,6 +26,8 @@ no se cargara.
 - http://wiki.c2.com/?AbstractFactoryPattern
 - https://www.patterns.dev/posts/classic-design-patterns/
 - https://refactoring.guru/design-patterns
+- https://www.youtube.com/playlist?list=PLC238B0613515968F
+- https://www.youtube.com/playlist?list=PLM-p96nOrGcbqbL_A29b0z3KUXdq2_fpn
 
 
 ## Apartado herramientas
